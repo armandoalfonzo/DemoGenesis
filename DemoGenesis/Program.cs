@@ -7,6 +7,7 @@ namespace DemoGenesis
         static void Main(string[] args)
         {
             ImprimirHola();
+            Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
 
